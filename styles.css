@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.kk{
+    width: 20vw;
+    height: 80vh;
+    background-color: rgb(215, 233, 233);
+    text-align: center;
+    padding: 20px;
+    box-shadow: 50px;
+}
+.aa{
+    width: 20vw;
+    height: 30vh;
+}
+.bb{
+    padding: 10px;
+    background-color: rgb(254, 75, 75);
+    color: white;
+    border-radius: 10px;
+}
